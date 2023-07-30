@@ -21,22 +21,22 @@ es: &DEFAULT_ES
 
   services:
     title: "Servicios"
-    text: "Lorem ipsum"
+    text: "A un clic de distancia"
     section: servicios
     list:
       - title: "Comercio Electrónico"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Hagan sus pedidos, se enviaran de acuerdo a lista de entrega, o bien usando Correo de Costa Rica"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Diseño Responsivo"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Talleres y Capacitaciones"
+        desc: "Estos talleres se impartiran tanto presenciales como virtuales, solo debe revisar el calendario e inscribirse"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Su descripción aquí, soporte completo de **Markdown**"
-        icon: fab fa-markdown
+      - title: "Proveedores"
+        desc: "Quieres ser parte de nuestro [**Proyecto**](https://bash20cu.github.io/EcoConnected/)"
+        icon: fa fa-truck
 
   portfolio:
     title: "Portafolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Catalogo de servicios"
     section: portafolio
     closebutton: "Cerrar Proyecto"
 
@@ -83,27 +83,27 @@ es: &DEFAULT_ES
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://bash20cu.github.io/EcoConnected/
         logo: assets/img/clients/envato.jpg
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://bash20cu.github.io/EcoConnected/
         logo: assets/img/clients/designmodo.jpg
       - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://bash20cu.github.io/EcoConnected/
         logo: assets/img/clients/themeforest.jpg
       - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://bash20cu.github.io/EcoConnected/
         logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Siempre al servicio con la mejo actitud"
+    subtext: Eco Connected
     section: equipo
     people:
       - name: "Alejandra Lizette Hernandez Rizo"
-        role: "Estudiante"
-        image: assets/img/team/500x500.jpg
+        role: "Diseñadora"
+        image: assets/img/team/alejandra.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -112,8 +112,8 @@ es: &DEFAULT_ES
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Jose Abraham Brizuela Lopez"
-        role: "Estudiante"
-        image: assets/img/team/2.jpg
+        role: "Informatico"
+        image: assets/img/team/jose.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -122,8 +122,8 @@ es: &DEFAULT_ES
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Ney Eduardo Monge Jarquin"
-        role: "Estudiante"
-        image: assets/img/team/500x500.jpg
+        role: "Administrador de Proyecto"
+        image: assets/img/team/ney.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -134,7 +134,7 @@ es: &DEFAULT_ES
 
   contact:
     title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
+    text: "Dejenos su reseña"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
@@ -156,7 +156,7 @@ es: &DEFAULT_ES
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://bash20cu.github.io/EcoConnected/
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
