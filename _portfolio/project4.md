@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Muebles y Decoración
+subtitle: Mubles para siempre Eco Diseño.
 image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Muebles y Decoración
+  subtitle: Productos
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Todos nuestros muebles son unicos y personalizados, podes ser parte del cambio y adquirir el que mas te guste, tambien si tienes algun mueble que desees reciclar lo podes traer y se lo realizaremos!
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: October 2021
+- Client: Eco Diseño
+- Category: Muebles y Decoración
 

@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Cuidado Personal
+subtitle: Jabones cremas aceites y fragancias ECO MUSAS.
 image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Cuidado Personal
+  subtitle: Productos
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Todos nuestros productos son materiales reciclados y de la mas alta calidad, pueden ser parte del cambio adquiriendolos a muy buen precio!
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: Enero 2020
+- Client: ECO MUSAS
+- Category: Cuidado Personal
 

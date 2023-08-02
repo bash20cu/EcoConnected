@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title:  Linea de Maquillaje
+subtitle: RED LIPS BY ALEJANDRA H.R.
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Belleza
+  subtitle: Productos
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Nuestros excelentes productos son de alta durabilidad y hechos con los mejores ingredientes eco amigables e hipoalérgenicos. 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: Enero 2021
+- Client: RED LIPS BY ALEJANDRA H.R.
+- Category: Productos de Belleza
 

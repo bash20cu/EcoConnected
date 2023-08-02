@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Articulos de Cocina
+subtitle: Variedad de colores y estilos para su cualquier gusto.
 image: assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Articulos de Cocina
+  subtitle: Productos
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Nuestros productos son de alta calidad y con garantia, se adaptan a cualquier estilo de cocina y pueden elegir su color o forma favoritos de nuetro catalogo!
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Date: junio 2020
+- Client: Cocina Verde
+- Category: Articulos de Cocina
 

@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Atuendo y Decoración
+subtitle: Creando espacios unicos Eco Prendas.
 image: assets/img/portfolio/06-full.jpg
 alt: 
 
 caption:
-  title: Window
-  subtitle: Photography
+  title: Atuendo y Decoración
+  subtitle: Productos
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Revisa nuestro catalogo para que descrubas las prensa unicas que le ofrecemos, nunguna es igual a la otra o puedes traernos las prensas y nosotros se las confeccionaremos como nuevas, tambien descubri todas las prendas para cama o cortinas para su decoración!
 
 {:.list-inline}
 - Date: October 2019
-- Client: Window
-- Category: Photography
+- Client: Creando espacios unicos Eco Prendas
+- Category: Atuendo y Decoración
 

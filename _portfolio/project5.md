@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Plantas y Decoración
+subtitle: Idea verdes y mas.
 image: assets/img/portfolio/05-full.jpg
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
+  title: Plantas y Decoración
+  subtitle: Productos
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Todas nuestras plantas son propias de la region, asi siempre podes estar con la seguridad que estaran bien y que no son extraidas de lugares que no deberian de tomar las plantas, nuestras masetas son unicas y con variados estilos, si tienes alguna idea para una maseta con gusto se la desarrollamos!
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+- Date: Febrero 2019
+- Client: Idea verdes y mas
+- Category: Plantas y Decoración
 

@@ -36,33 +36,37 @@ es: &DEFAULT_ES
     #start_align: "left"
     events:
       - title: "Nuestro Humilde Comienzo"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2021-2022"
+        desc: "Eco-Connected se fundó en 2021 como una pequeña PYME dedicada a promover la sostenibilidad y la conexión con la naturaleza para nuestros clientes. Durante estos años iniciales, el equipo trabajó arduamente para desarrollar la visión de la empresa y crear una base sólida para el futuro."
         image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Una Agencia nace"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
+        alt: "Eco-Connected en sus inicios"
       - title: "La plantilla Jekyll es creada"
-        year: "2019"
-        desc: "Ravi Riley convirtió Agency, una plantilla basada en Bootstrap, en una plantilla de Jekyll. La plantilla Jekyll puede ser instalada commo una gema de Ruby (Ruby gem) o remotamente. Para más información, visite la documentación."
+        year: "2023"
+        desc: "En 2023, Eco-Connected dio un paso hacia la tecnología y la difusión en línea. En asociación con Ravi Riley, un experto en desarrollo web sostenible, la empresa creó la plantilla Jekyll, permitiendo a sus clientes acceder a recursos y herramientas eco-amigables de manera más accesible y moderna."
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Título"
-        year: "2009-2011"
-        desc: "Su descripción aquí, **Markdown** es soportado completamente."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
+        alt: "Presentación de la plantilla Jekyll"
+      - title: "Compromiso con la Comunidad"
+        year: "2020"
+        desc: "En 2023, Eco-Connected lanzó un programa de responsabilidad social corporativa llamado 'Conexión con la Comunidad'. A través de este programa, la empresa se comprometió con talleres en proyectos ambientales y comunitarios, trabajando junto con ONGs y entidades locales para mejorar la calidad de vida de las personas y preservar la naturaleza."
+        image: assets/img/timeline/6.jpg
+        alt: "Eco-Connected se involucra con la comunidad"
+      - title: "Compromiso a largo plazo"
+        year: "2023"
+        desc: "Eco-Connected reafirmó su compromiso a largo plazo con la sostenibilidad y la responsabilidad ambiental. La empresa anunció su ambiciosa meta de alcanzar la neutralidad de carbono para 2030 y prometió seguir liderando iniciativas eco-amigables para inspirar a otras empresas a seguir el mismo camino hacia un futuro más verde y sostenible."
+        image: assets/img/timeline/8.jpg
+        alt: "Eco-Connected se compromete con la neutralidad de carbono"
     end: "¡Se parte <br> de Nuestra <br> Historia!"
 
   about:
     title: "Sobre nosotros"
-    text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Nuetras Misión y Visión"
+    body: "**Misión:** Nuestra misión es fomentar un estilo de vida sostenible y respetuoso con el medio ambiente al ofrecer
+soluciones ecológicas para la comunidad, promoviendo la conciencia ambiental y reduciendo la huella ecológica.
+Ayudamos a pequeñas Pymes o empresarios que ofrecen servicios sustentables o ecológicos, de esta manera sigue
+creciendo nuestra plataforma al seguir sumando mas interesados
+**Visión:** Queremos ser líderes en el mercado como un centro integral para la sostenibilidad, conectando a las
+personas con productos y servicios que ayuden a preservar el planeta y mejorar la calidad de vida de las
+generaciones presentes y futuras."
     section: nosotros
 
   clients:
